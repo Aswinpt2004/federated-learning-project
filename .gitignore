@@ -41,4 +41,6 @@ KDDTrain+_20Percent.arff
 KDDTest+.arff
 KDDTest-21.arff
 
+nsl_kdd_federated_workflow.ipynb
+
 
