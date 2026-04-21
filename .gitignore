@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Project-generated artifacts
+*.pt
+*.pth
+*.npy
+*.pkl
+*.png
+results_comparison.csv
+baseline_metrics.json
+
+# NSL-KDD raw datasets (download separately)
+KDDTrain+.txt
+KDDTrain+_20Percent.txt
+KDDTest+.txt
+KDDTest-21.txt
+KDDTrain+.arff
+KDDTrain+_20Percent.arff
+KDDTest+.arff
+KDDTest-21.arff
