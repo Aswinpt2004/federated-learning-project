@@ -1,4 +1,4 @@
-# Python
+﻿# Python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -40,3 +40,5 @@ KDDTrain+.arff
 KDDTrain+_20Percent.arff
 KDDTest+.arff
 KDDTest-21.arff
+
+
