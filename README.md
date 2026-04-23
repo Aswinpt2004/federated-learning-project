@@ -58,8 +58,8 @@ Training setup:
 
 ## Federated Setup (Current)
 
-Current notebook configuration is optimized for practical single-machine execution:
-- Total clients: 6
+-Current notebook configuration is optimized for practical single-machine execution:
+- Total clients: 5
 - Clients per round: 3
 - Rounds: 20
 - Local epochs: 3
